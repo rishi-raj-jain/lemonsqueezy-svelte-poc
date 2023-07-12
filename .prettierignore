@@ -1,0 +1,13 @@
+.env
+.env.*
+/build
+.vercel
+/package
+.DS_Store
+README.md
+yarn.lock
+node_modules
+/.svelte-kit
+!.env.example
+pnpm-lock.yaml
+package-lock.json
